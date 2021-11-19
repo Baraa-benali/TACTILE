@@ -1,0 +1,4 @@
+Web speech API de W3C
+https://github.com/girliemac/web-speech-ai
+W3C Vibration API
+https://w3c.github.io/vibration/
